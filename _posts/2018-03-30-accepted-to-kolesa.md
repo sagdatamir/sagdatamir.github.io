@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Accepted"
+title: "Accepted to Kolesa Team"
 date: 2018-03-30 20:50:22 +0600
 ---
 
